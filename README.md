@@ -7,7 +7,7 @@ Although [Grails] includes scripts for the creation of applications and domain c
 Prerequisites
 ---
 
-This script has been teated under a Grails 1.3.7 only.
+This script has been tested under a Grails 1.3.7 only.
 
 To install Grails, visit http://grails.org/Download and download the version you would like to use. Set a GRAILS_HOME environment variable to point to the root of the extracted download and add GRAILS_HOME/bin to your executable PATH. Then in a shell, type the following:
 	
