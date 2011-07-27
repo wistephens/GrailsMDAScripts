@@ -43,9 +43,9 @@ Example 1:
 Example 2:
     Add "username" attribute of type String in $basedir/grails-app/domain/org/something.Object
     Adds constraint definition to constraints block:
-        username blank:true, size:5..24, unique:true
+        username blank:false, size:5..24, unique:true
 
-    $grails create-domain-attribute org.something.Object username String blank:false size:3..24 unique:true
+    $grails create-domain-attribute org.something.Object username String blank:false size:5..24 unique:true
 	
 License
 ---
