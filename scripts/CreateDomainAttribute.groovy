@@ -21,10 +21,10 @@ Usage: grails create-domain-attribute <domain-class-package-and-name> <attribute
 
 Adds a specified attribute and constraint to the specified domain class
 
-Example: grails create-domain-attributes org.something.Object username String
+Example: grails create-domain-attribute org.something.Object username String
 Adds "String username" as an attribute in $basedir/grails-app/domain/org/something.Object
     
-Example: grails create-domain-attributes org.something.Object username String blank:false size:3..24 unique:true
+Example: grails create-domain-attribute org.something.Object username String blank:false size:3..24 unique:true
 Adds "String username" as an attribute in $basedir/grails-app/domain/org/something.Object
 Adds constraint definition to constraints block:
     username blank:true, size:5..24, unique:true
