@@ -51,5 +51,5 @@ License
 ---
 Copyright 2011 William E. Stephens (https://github.com/wistephens)
 
-This project is free software released under the MIT license:
-http://www.opensource.org/licenses/mit-license.php 
+This project is free software released under the Apache 2.0 license:
+http://www.apache.org/licenses/
